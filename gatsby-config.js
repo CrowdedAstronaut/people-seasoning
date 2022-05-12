@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `People Seasoning, a travel blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Ross Phillips`,
+      summary: `who lives and works in Austin, TX building useful things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `A blog about travel and stuff.`,
+    siteUrl: `http://www.peopleseasoning.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `johnrossphillips`,
     },
   },
   plugins: [
