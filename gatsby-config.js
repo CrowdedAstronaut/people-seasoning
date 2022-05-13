@@ -106,7 +106,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
-            title: "Gatsby Starter Blog RSS Feed",
+            title: "People Seasoning RSS Feed",
           },
         ],
       },
@@ -114,7 +114,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `People Seasoning`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
